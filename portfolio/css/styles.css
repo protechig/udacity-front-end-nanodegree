@@ -1,0 +1,51 @@
+.wrap {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    margin: 0 auto;
+}
+
+header,
+.portfolio {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.about-me {
+    text-align: right;
+}
+
+.portfolio-item {
+    text-align: center;
+}
+
+.my-picture {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 960px) {
+    header,
+    .portfolio {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    h1,
+    h2,
+    h3 {
+        text-align: center;
+    }
+
+    .logo img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .portfolio-item {
+        margin-bottom: 20px;
+    }
+
+}
+
