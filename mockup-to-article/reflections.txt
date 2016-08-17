@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1. I haven't learned anything new, I already know HTML
+2. Adding the appropriate markup
+3. Adding appropriate markup in vim because of it's tag autocomplete feature
+4. Did not apply, I had to google the <sup> tag becasue I haven't used it in a while
